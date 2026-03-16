@@ -1,9 +1,9 @@
-#CodeAlpha AI Internship Projects
+# AI Internship Projects
 
 This repository contains the tasks completed as part of my **AI Internship**.
 Each task demonstrates a different application of Artificial Intelligence and Python programming.
 
-
+---
 
 # Task 1: Language Translation Tool
 
@@ -29,8 +29,11 @@ The Language Translation Tool allows users to translate text from one language t
 
 Navigate to the folder and run:
 
+```
 py -m streamlit run app.py
+```
 
+---
 
 # Task 2: FAQ Chatbot
 
@@ -55,8 +58,11 @@ The FAQ Chatbot answers user questions based on a predefined FAQ dataset. It use
 
 ## How to Run
 
+```
 py -m streamlit run app.py
+```
 
+---
 
 # Task 3: AI Music Generator
 
@@ -79,17 +85,21 @@ The AI Music Generator creates new musical sequences based on patterns learned f
 
 ## How to Run
 
-
+```
 py music_generator.py
-
+```
 
 The generated music will be saved as:
 
+```
 generated_music.mid
+```
 
+---
 
 # Project Structure
 
+```
 AI_INTERNSHIP
 │
 ├── Task1-LanguageTranslator
@@ -102,7 +112,9 @@ AI_INTERNSHIP
     ├── midi_dataset
     ├── music_generator.py
     └── generated_music.mid
+```
 
+---
 
 # Author
 
